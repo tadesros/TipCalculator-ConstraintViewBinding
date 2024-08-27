@@ -17,7 +17,7 @@
 
     <!-- Input for tip percentages -->
 
-    <!-- Input for tip percentages -->
+    <!-- asdfads Input for tip percentages -->
 
     <EditText
         android:id="@+id/editTextBillAmount"
